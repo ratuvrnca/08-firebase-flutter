@@ -7,6 +7,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:613605130410:android:335d333165a47d8cbe10d3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613605130410-tt3gkfdf2ir0l2nf1kf74mhfl3ivt433.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_flutter",
+            "certificate_hash": "9e246c94797a29cb2652294d3d10e481ca2ddbde"
+          }
+        },
+        {
+          "client_id": "613605130410-iuenm24chvm2s7em96ah41png192803l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpqINk26ehZB51AfoI8SBtesabR9fMEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613605130410-iuenm24chvm2s7em96ah41png192803l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:613605130410:android:6ee055a3029a1d0abe10d3",
         "android_client_info": {
           "package_name": "com.example.flutter_firebase"
@@ -14,7 +51,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "613605130410-1s2sl2rtro5ec31ljk3rc2s0marq6g52.apps.googleusercontent.com",
+          "client_id": "613605130410-40k9064k25ujaen70s643g4umqk9c69h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.flutter_firebase",
